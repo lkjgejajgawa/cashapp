@@ -4,7 +4,7 @@ This library streamlines using Kotlin/JS libraries from Kotlin/JVM and Kotlin/Na
 makes it fetching code as easy as fetching data:
 
  * For continuous deployment within mobile apps, just like we do for servers and web apps. It'd be
-   simpler to do continuous deploys via the app stores! But that process is too slow and we can't
+   simpler to do continuous deploys via the app stores; However, that process is too slow and we can't
    guarantee that user’s devices will update immediately.
  * For user-customizable behavior and plugin systems
  * For updating business rules, like pricing or payments
